@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3637-trionic-array-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
