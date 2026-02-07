@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3637-trionic-array-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -40,4 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
