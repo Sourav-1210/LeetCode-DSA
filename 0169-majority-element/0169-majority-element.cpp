@@ -20,14 +20,36 @@ public:
     //     }else{
     //         return -1;
     //     }
-        unordered_map<int,int>mp;
-        for(int x : nums){
-            mp[x]++;
-        }
-        for(auto it:mp){
-            if(it.second>nums.size()/2){
-                return it.first;
+        // unordered_map<int,int>mp;
+        // for(int x : nums){
+        //     mp[x]++;
+        // }
+        // for(auto it:mp){
+        //     if(it.second>nums.size()/2){
+        //         return it.first;
+        //     }
+        // }
+        // return -1;
+        int count = 0;
+        int ele;
+        for(int i=0;i<nums.size();i++){
+            if(count==0){
+                count=1;
+                ele = nums[i];
+            }else if(ele == nums[i]){
+                count++;
+            }else{
+                count--;
             }
+        }
+        int count1 = 0;
+        for(int i=0;i<nums.size();i++){
+            if(ele==nums[i]){
+                count1++;
+            }
+        }
+        if(count1>nums.size()/2){
+            return ele;
         }
         return -1;
     }
