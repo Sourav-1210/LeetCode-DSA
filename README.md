@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
