@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Indexed Tree
@@ -181,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0493-reverse-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
