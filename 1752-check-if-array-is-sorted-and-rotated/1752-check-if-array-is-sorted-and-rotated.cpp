@@ -6,14 +6,10 @@ public:
             if(nums[i-1]>nums[i]){
                 count++;
             }
-            if(nums[nums.size()-1]>nums[0]){
-                count++;
-            }
         }
-        if(count<=1){
-            return true;
-        }else{
-            return false;
+        if(nums[nums.size()-1]>nums[0]){
+            count++;
         }
+        return count<=1;
     }
 };
