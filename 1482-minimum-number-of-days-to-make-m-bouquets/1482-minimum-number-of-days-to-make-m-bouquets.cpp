@@ -23,7 +23,7 @@ public:
             maxi = max(maxi,bloomDay[i]);
         }
         int low = mini, high = maxi;
-        int ans = INT_MAX;
+        int ans = -1;
         while(low<=high){
             int mid = (low+high)/2;
             if(possible(bloomDay,mid,m,k)){
