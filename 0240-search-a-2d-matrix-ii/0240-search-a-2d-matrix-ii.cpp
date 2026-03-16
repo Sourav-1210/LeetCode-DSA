@@ -18,12 +18,24 @@ public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int n = matrix.size();
         int m = matrix[0].size();
-        for(int i=0;i<n;i++){
-            if(matrix[i][0]<=target && matrix[i][m-1]>=target){
-                bool ans = binarySearch(matrix[i],m,target);
-                if(ans){
-                    return true;
-                }
+        // for(int i=0;i<n;i++){
+        //     if(matrix[i][0]<=target && matrix[i][m-1]>=target){
+        //         bool ans = binarySearch(matrix[i],m,target);
+        //         if(ans){
+        //             return true;
+        //         }
+        //     }
+        // }
+        // return false;
+        int row = 0;
+        int col = m-1;
+        while(row<n && col>=0){
+            if(matrix[row][col]==target){
+                return true;
+            }else if(matrix[row][col]<target){
+                row++;
+            }else{
+                col--;
             }
         }
         return false;
