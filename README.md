@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0493-reverse-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
