@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2942-find-words-containing-character](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [2942-find-words-containing-character](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
