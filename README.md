@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3110-score-of-a-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Stack
 |  |
 | ------- |
