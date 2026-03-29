@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2652-sum-multiples) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3516-find-closest-person](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3516-find-closest-person) |
 ## String
 |  |
 | ------- |
