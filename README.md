@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0413-arithmetic-slices) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Union-Find
 |  |
 | ------- |
