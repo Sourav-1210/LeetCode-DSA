@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
