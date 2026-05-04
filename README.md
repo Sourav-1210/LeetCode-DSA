@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
