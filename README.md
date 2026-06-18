@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
