@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
