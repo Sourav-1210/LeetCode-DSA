@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
