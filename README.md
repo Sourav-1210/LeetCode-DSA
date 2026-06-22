@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2418-sort-the-people) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2418-sort-the-people](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2418-sort-the-people) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
