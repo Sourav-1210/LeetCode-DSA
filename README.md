@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0413-arithmetic-slices) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
