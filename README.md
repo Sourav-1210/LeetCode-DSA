@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0151-reverse-words-in-a-string) |
