@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
