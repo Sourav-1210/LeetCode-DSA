@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
+| [1002-find-common-characters](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1002-find-common-characters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2418-sort-the-people](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2418-sort-the-people) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
