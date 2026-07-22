@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
