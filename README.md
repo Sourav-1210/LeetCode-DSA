@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1002-find-common-characters) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
+| [0680-valid-palindrome-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Brainteaser
