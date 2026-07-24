@@ -412,12 +412,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0394-decode-string) |
