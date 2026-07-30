@@ -2,7 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         mp = {
-            ')':"(",
+            ')':'(',
             '}':'{',
             ']':'['
         }
@@ -14,5 +14,4 @@ class Solution:
                 stack.pop()
             else:
                 stack.append(ch)
-
         return len(stack)==0
