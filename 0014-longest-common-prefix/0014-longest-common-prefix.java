@@ -8,10 +8,9 @@ class Solution {
             while(!strs[i].startsWith(prefix)){
                 prefix = prefix.substring(0,prefix.length()-1);
             }
-            if(prefix.isEmpty()){
-                return "";
-            }
+            if(prefix.length()==0) return "";
         }
         return prefix;
     }
+
 }
