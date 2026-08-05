@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
