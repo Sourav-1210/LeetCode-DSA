@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0771-jewels-and-stones) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0413-arithmetic-slices) |
+| [0647-palindromic-substrings](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0647-palindromic-substrings) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
