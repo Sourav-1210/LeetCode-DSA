@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2942-find-words-containing-character) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3731-find-missing-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
