@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1901-find-a-peak-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
