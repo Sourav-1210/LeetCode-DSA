@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
