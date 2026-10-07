@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1901-find-a-peak-element-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -618,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sourav-1210/LeetCode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
